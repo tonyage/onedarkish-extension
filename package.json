@@ -1,0 +1,21 @@
+{
+    "name": "onedarkish",
+    "displayName": "onedarkish",
+    "description": "recolor of onedark for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "onedarkish",
+                "uiTheme": "vs-dark",
+                "path": "./themes/onedarkish-color-theme.json"
+            }
+        ]
+    }
+}
