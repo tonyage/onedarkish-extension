@@ -1,6 +1,7 @@
 {
     "name": "onedarkish",
     "displayName": "onedarkish",
+    "publisher": "tonyage",
     "description": "recolor of onedark for vscode",
     "version": "0.0.1",
     "engines": {
